@@ -7,27 +7,19 @@ Je suis un développeur web et web mobile passionné par la création d'applicat
 
 ### Compétences Techniques
 
-#### Langages de Programmation:
-- JavaScript
-- Python
-- PHP
-- HTML
-- CSS
+#### Langages de Programmation:             #### Frameworks et Bibliothèques:
+- JavaScript                                - Angular
+- Python                                    - Spring
+- PHP                                       - Symfony
+- HTML                                      - React
+- CSS                                       - Bootstrap
+- Java                                    
 
-#### Frameworks et Bibliothèques:
-- React
-- Symfony
-- Angular
-- Bootstrap
-- Spring
 
-#### CMS et Outils de Développement:
-- WordPress
+#### CMS et Outils de Développement:        #### Bases de Données:
+- WordPress                                 - MySQL
 - Docker
 - Linux
-
-#### Bases de Données:
-- MySQL
 
 #### Outils de Design et Multimédia:
 - Photoshop
