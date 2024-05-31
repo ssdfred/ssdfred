@@ -2,49 +2,43 @@
 
 ## Frédéric SMEE
 
-### À propos de moi
-Je suis un développeur web et web mobile passionné par la création d'applications innovantes et sécurisées. Avec une solide formation et une expérience diversifiée, je suis toujours à la recherche de défis stimulants dans le domaine de la technologie.
+### À propos de moi : 
 
-### Compétences Techniques
+🔭Je suis Concepteur Développeur d’Applications Java-Angular passionné par la création d'applications innovantes et sécurisées. Avec une solide formation et une expérience diversifiée, je suis toujours à la recherche de défis stimulants dans le domaine de la technologie.
 
-#### Langages de Programmation:
+### Compétences Techniques 💬
+
+#### Langages de Programmation 🔭:
+
+- Java
 - JavaScript
 - Python
 - PHP
 - HTML
 - CSS
 
-#### Frameworks et Bibliothèques:
+#### Frameworks et Bibliothèques 🔭:
+
 - React
 - Symfony
 - Angular
 - Bootstrap
 - Spring
 
-#### CMS et Outils de Développement:
+#### CMS et Outils de Développement 🔭:
+
 - WordPress
 - Docker
 - Linux
 
-#### Bases de Données:
-- MySQL
+#### Bases de Données 🔭:
 
-#### Outils de Design et Multimédia:
+- MySQL
+- MangoDb
+
+#### Outils de Design et Multimédia 🔭:
+
 - Photoshop
 - Adobe Premiere
 
 
-<!--
-**ssdfred/ssdfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
