@@ -37,7 +37,7 @@ Chaque projet suit les mêmes principes fondamentaux :
 | 📻 Radio Lotus | Plateforme de diffusion radio | 🔒 Projet privé |
 | ⚡ EMS | Gestion énergétique & domotique | 🔒 Projet privé |
 | 📱 Devis Express Artisan | Application mobile | 🔒 Projet privé |
-| 📚 **[FSDev Engineering Standards](https://github.com/ssdfred/FSDev-Engineering-Standards)** | Référentiel d'ingénierie | 🌍 Public |
+| 📚 **[FSDev Engineering Standards](https://github.com/ssdfred/FSDev-Engineering-Standard)** | Référentiel d'ingénierie | 🌍 Public |
 
 ---
 
