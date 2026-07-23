@@ -5,80 +5,83 @@
 <h1 align="center">FSDev</h1>
 
 <p align="center">
-  <strong>Engineering Better Software</strong>
+    <strong>Engineering Better Software</strong>
 </p>
 
 <p align="center">
-  Un écosystème d'ingénierie logicielle dédié à la conception de logiciels fiables, sécurisés et durables.
+Un écosystème d'ingénierie logicielle dédié à la conception de logiciels fiables, sécurisés et durables.
 </p>
 
 ---
 
-## À propos
+# À propos
 
-FSDev est un écosystème d'ingénierie logicielle dédié à la conception de logiciels, de plateformes techniques et de référentiels d'ingénierie.
+FSDev est un écosystème d'ingénierie logicielle dont l'objectif est de concevoir des logiciels robustes, maintenables et documentés.
 
-Chaque projet développé au sein de l'écosystème partage les mêmes principes :
+Chaque projet suit les mêmes principes fondamentaux :
 
-- 🏗️ Une architecture réfléchie
-- 🛡️ La sécurité dès la conception
-- 📚 Une documentation de qualité
-- ⚙️ Une amélioration continue
-- 🤝 Des solutions pragmatiques et maintenables
+- 🏗️ Architecture réfléchie
+- 🛡️ Sécurité dès la conception
+- 📚 Documentation de qualité
+- ⚙️ Amélioration continue
+- 🤝 Solutions pragmatiques et durables
+
+---
+
+# Les projets de l'écosystème
+
+| Projet | Domaine | Disponibilité |
+|---------|----------|---------------|
+| 🔐 CyberLab | Plateforme de cybersécurité | 🔒 Projet privé |
+| 💾 **[FSBackup](https://github.com/ssdfred/FSBackup)** | Solution moderne de sauvegarde | 🌍 Public |
+| 📻 Radio Lotus | Plateforme de diffusion radio | 🔒 Projet privé |
+| ⚡ EMS | Gestion énergétique & domotique | 🔒 Projet privé |
+| 📱 Devis Express Artisan | Application mobile | 🔒 Projet privé |
+| 📚 **[FSDev Engineering Standards](https://github.com/ssdfred/FSDev-Engineering-Standards)** | Référentiel d'ingénierie | 🌍 Public |
 
 ---
 
-## Les projets de l'écosystème
+# Les référentiels publics
 
-### 🔐 CyberLab
-
-Plateforme moderne de cybersécurité dédiée à la gestion des actifs, des vulnérabilités et des opérations de sécurité.
-
----
+Les dépôts publics de FSDev permettent de découvrir notre approche de l'ingénierie logicielle.
 
 ### 💾 FSBackup
 
-Solution moderne de sauvegarde conçue pour protéger les données de manière fiable et sécurisée.
-
----
-
-### 📻 Radio Lotus
-
-Plateforme complète de diffusion radio intégrant automatisation, CMS, gestion musicale et outils d'administration.
-
----
-
-### ⚡ EMS
-
-Plateforme de gestion énergétique et de domotique.
-
----
-
-### 📱 Devis Express Artisan
-
-Application mobile destinée à simplifier la création de devis et de factures sur le terrain.
-
----
+Une solution moderne de sauvegarde conçue pour être fiable, sécurisée et maintenable.
 
 ### 📚 FSDev Engineering Standards
 
-Le référentiel d'ingénierie utilisé par l'ensemble des projets de l'écosystème.
+Le référentiel d'ingénierie utilisé pour l'ensemble des projets de l'écosystème.
 
-Il rassemble les standards de développement, les modèles, les bonnes pratiques, les ADR, les runbooks et la documentation technique.
+Il regroupe notamment :
+
+- les standards de développement ;
+- les conventions de code ;
+- les modèles de documentation ;
+- les ADR (Architecture Decision Records) ;
+- les checklists ;
+- les runbooks ;
+- les bonnes pratiques d'architecture.
 
 ---
 
-## Notre philosophie
+# Notre philosophie
 
-Chez FSDev, nous considérons qu'un logiciel ne se résume pas à son code.
+Chez FSDev, nous pensons qu'un logiciel ne se résume pas à son code.
 
-Sa qualité repose également sur son architecture, sa documentation, sa sécurité, sa maintenabilité et sa capacité à évoluer dans le temps.
+Sa qualité repose également sur :
+
+- son architecture ;
+- sa documentation ;
+- sa sécurité ;
+- sa maintenabilité ;
+- sa capacité à évoluer dans le temps.
 
 Chaque projet est conçu selon cette vision.
 
 ---
 
-## Technologies
+# Technologies
 
 ### Backend
 
@@ -103,19 +106,31 @@ Chaque projet est conçu selon cette vision.
 
 - Docker
 - GitHub Actions
-- Nginx
 - Linux
+- Nginx
 
 ---
 
-## À propos du fondateur
+# Documentation
 
-FSDev est un écosystème créé et développé par **Frédéric SMEE**.
+L'identité et la vision de FSDev sont décrites dans les documents suivants :
 
-Il rassemble plusieurs projets partageant une même vision : concevoir des logiciels robustes, documentés, sécurisés et durables.
+- 📖 **Brand Identity**
+- 📜 **Manifeste**
+- 🛣️ **Roadmap**
+
+Ils définissent la philosophie, les objectifs et l'évolution de l'écosystème.
+
+---
+
+# Le fondateur
+
+FSDev est un écosystème créé par **Frédéric SMEE**.
+
+Il rassemble plusieurs projets partageant une même vision : construire des logiciels fiables, documentés, sécurisés et conçus pour durer.
 
 ---
 
 <p align="center">
-Engineering Better Software
+<strong>Engineering Better Software</strong>
 </p>
