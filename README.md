@@ -39,7 +39,7 @@ FSDev développe des solutions dans plusieurs domaines de l'ingénierie logiciel
 | Projet | Domaine | État | Visibilité |
 |---------|----------|------|------------|
 | 🔐 CyberLab | Plateforme de cybersécurité | 🚧 En développement | 🔒 Privé |
-| 💾 **[FSBackup](https://github.com/ssdfred/FSBackup)** | Solution moderne de sauvegarde | 🌍 Public | 🌍 Public |
+| 💾 FSBackup | Solution moderne de sauvegarde | 🚧 En développement | 🔒 Privé |
 | 📻 Radio Lotus | Plateforme de diffusion radio | 🚧 En développement | 🔒 Privé |
 | ⚡ EMS | Gestion énergétique & domotique | 🚧 En développement | 🔒 Privé |
 | 📱 Devis Express Artisan | Application mobile pour les artisans | 🚧 En développement | 🔒 Privé |
@@ -47,15 +47,7 @@ FSDev développe des solutions dans plusieurs domaines de l'ingénierie logiciel
 
 ---
 
-# Référentiels publics
-
-## 💾 FSBackup
-
-Solution moderne de sauvegarde conçue pour protéger les données de manière fiable, sécurisée et maintenable.
-
-➡️ https://github.com/ssdfred/FSBackup
-
----
+# Référentiel public
 
 ## 📚 FSDev Engineering Standards
 
@@ -71,8 +63,7 @@ Il rassemble notamment :
 - les checklists ;
 - les bonnes pratiques d'ingénierie logicielle.
 
-➡️ https://github.com/ssdfred/FSDev-Engineering-Standards
-
+➡️ **[Consulter FSDev Engineering Standards](https://github.com/ssdfred/FSDev-Engineering-Standards)**
 ---
 
 # Notre philosophie
