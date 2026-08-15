@@ -36,8 +36,8 @@ Cette feuille de route définit les étapes permettant de développer l'identit�
 - [ ] Logo vectoriel officiel (SVG)
 - [ ] Variantes du logo
 - [ ] Icône officielle
-- [ ] Palette de couleurs
-- [ ] Typographie
+- [x] Palette de couleurs
+- [x] Typographie
 - [ ] Favicon
 - [ ] Charte graphique (Brand Guide)
 

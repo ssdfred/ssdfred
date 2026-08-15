@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 576" role="img" aria-labelledby="title desc">
+  <title id="title">Logo FSDev sombre</title>
+  <desc id="desc">Version sombre du logo FSDev pour fonds clairs.</desc>
+
+  <g fill="#07111F">
+    <!-- Structure supérieure et lettre F -->
+    <path d="
+      M256 34
+      L430 136
+      L430 242
+      L392 220
+      L392 158
+      L256 78
+      L120 158
+      L120 292
+      L202 244
+      L202 293
+      L120 341
+      L120 426
+      L82 404
+      L82 136
+      Z"/>
+
+    <!-- Lettre S / structure inférieure -->
+    <path d="
+      M256 216
+      L430 318
+      L430 428
+      L256 530
+      L202 498
+      L202 423
+      L256 455
+      L392 375
+      L392 340
+      L256 260
+      Z"/>
+
+    <!-- Segment intérieur central -->
+    <path d="
+      M202 325
+      L256 293
+      L392 373
+      L392 419
+      L338 451
+      L202 371
+      Z"/>
+  </g>
+</svg>
