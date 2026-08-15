@@ -1,7 +1,7 @@
 # FSDev Brand Guide
 
-> Version : 1.0.0
-> Statut : En cours
+> Version : 1.0.0  
+> Statut : Officiel
 
 ---
 
@@ -13,14 +13,16 @@ La signature officielle est :
 
 > **Engineering Better Software**
 
-L'identité visuelle doit refléter les principes fondamentaux de FSDev :
+L'identité visuelle de FSDev repose sur plusieurs principes :
 
-* ingénierie ;
-* fiabilité ;
-* sécurité ;
-* rigueur ;
-* modernité ;
-* pérennité.
+- ingénierie ;
+- fiabilité ;
+- sécurité ;
+- rigueur ;
+- modernité ;
+- pérennité.
+
+L'objectif est de construire une identité reconnaissable et suffisamment durable pour accompagner l'évolution de l'écosystème.
 
 ---
 
@@ -28,21 +30,107 @@ L'identité visuelle doit refléter les principes fondamentaux de FSDev :
 
 Le logo FSDev repose sur un monogramme géométrique constituant le symbole principal de l'écosystème.
 
-Il doit rester immédiatement identifiable et être utilisé de manière cohérente sur l'ensemble des projets FSDev.
+Sa géométrie ne doit pas être modifiée selon les projets ou les supports.
 
 ## Logo principal
 
-Le logo vectoriel SVG constitue la version de référence.
+La version vectorielle couleur constitue la référence officielle :
 
 ```text
 assets/logo/logo-fs-bleu.svg
 ```
 
-Le fichier SVG doit être privilégié lorsque le format le permet.
+Le format SVG doit être privilégié lorsque le support le permet.
 
 ---
 
-# 3. Palette officielle
+# 3. Variantes du logo
+
+Plusieurs variantes officielles sont disponibles afin de garantir une bonne lisibilité sur différents supports.
+
+```text
+assets/logo/
+├── logo-fs-bleu.svg
+├── logo-fs-dark.svg
+├── logo-fs-light.svg
+├── logo-fs-monochrome.svg
+├── icon.svg
+└── favicon.svg
+```
+
+## Logo couleur
+
+```text
+logo-fs-bleu.svg
+```
+
+Version principale et version à privilégier.
+
+---
+
+## Logo clair
+
+```text
+logo-fs-light.svg
+```
+
+Version destinée aux fonds sombres.
+
+---
+
+## Logo sombre
+
+```text
+logo-fs-dark.svg
+```
+
+Version destinée aux fonds clairs.
+
+---
+
+## Logo monochrome
+
+```text
+logo-fs-monochrome.svg
+```
+
+Version destinée aux usages nécessitant une seule couleur, notamment certains documents ou supports d'impression.
+
+---
+
+# 4. Icône officielle
+
+L'icône FSDev reprend le symbole principal sans élément textuel.
+
+```text
+assets/logo/icon.svg
+```
+
+Elle peut notamment être utilisée pour :
+
+- les avatars ;
+- les interfaces ;
+- les applications ;
+- les profils ;
+- les éléments nécessitant une représentation compacte de FSDev.
+
+---
+
+# 5. Favicon
+
+Le favicon officiel est disponible ici :
+
+```text
+assets/logo/favicon.svg
+```
+
+Il est optimisé pour représenter FSDev dans les navigateurs et les contextes nécessitant une icône de petite taille.
+
+---
+
+# 6. Palette officielle
+
+L'identité FSDev repose principalement sur une palette de bleus associée à des tons neutres.
 
 ## FSDev Blue
 
@@ -50,14 +138,14 @@ Le fichier SVG doit être privilégié lorsque le format le permet.
 #0A63D8
 ```
 
-Couleur principale de l'identité FSDev.
+Couleur principale de l'identité.
 
 Utilisations :
 
-* logo ;
-* liens ;
-* éléments graphiques principaux ;
-* éléments d'identification de la marque.
+- logo ;
+- liens ;
+- éléments graphiques principaux ;
+- éléments d'identification de la marque.
 
 ---
 
@@ -71,10 +159,10 @@ Couleur d'accent.
 
 Utilisations :
 
-* dégradés ;
-* détails du logo ;
-* éléments graphiques secondaires ;
-* mises en valeur.
+- dégradés ;
+- détails graphiques ;
+- éléments secondaires ;
+- mises en valeur.
 
 ---
 
@@ -88,10 +176,9 @@ Couleur de profondeur.
 
 Utilisations :
 
-* dégradés ;
-* ombres ;
-* variantes graphiques ;
-* surfaces secondaires.
+- dégradés ;
+- variantes graphiques ;
+- éléments secondaires.
 
 ---
 
@@ -101,7 +188,9 @@ Utilisations :
 #07111F
 ```
 
-Fond sombre principal de l'identité FSDev.
+Couleur sombre principale.
+
+Elle peut notamment être utilisée pour les fonds et les éléments nécessitant un contraste important.
 
 ---
 
@@ -111,7 +200,7 @@ Fond sombre principal de l'identité FSDev.
 #182536
 ```
 
-Utilisé pour les surfaces secondaires, cartes et séparateurs sur interfaces sombres.
+Couleur destinée aux surfaces secondaires et aux éléments graphiques intermédiaires.
 
 ---
 
@@ -121,7 +210,7 @@ Utilisé pour les surfaces secondaires, cartes et séparateurs sur interfaces so
 #B8C4D1
 ```
 
-Utilisé pour les éléments graphiques et textes secondaires.
+Couleur secondaire destinée notamment aux textes et éléments graphiques secondaires.
 
 ---
 
@@ -131,13 +220,13 @@ Utilisé pour les éléments graphiques et textes secondaires.
 #FFFFFF
 ```
 
-Utilisé principalement pour les textes et les versions du logo destinées aux fonds sombres.
+Utilisée pour les textes et éléments graphiques sur fonds sombres ainsi que pour la variante claire du logo.
 
 ---
 
-# 4. Dégradé principal
+# 7. Dégradé officiel
 
-Le dégradé de marque FSDev associe Cyan, FSDev Blue et Deep Blue.
+Le dégradé principal FSDev associe les trois couleurs fondamentales de l'identité :
 
 ```text
 #18BFF2 → #0A63D8 → #063B87
@@ -154,9 +243,11 @@ linear-gradient(
 )
 ```
 
+Ce dégradé doit rester cohérent lorsqu'il est utilisé dans les supports officiels.
+
 ---
 
-# 5. Typographie
+# 8. Typographie
 
 L'identité FSDev utilise deux familles typographiques complémentaires.
 
@@ -180,123 +271,141 @@ Elle est utilisée pour :
 - **SemiBold 600** — sous-titres et éléments importants ;
 - **Bold 700** — titres principaux.
 
-L'utilisation d'un nombre limité de graisses permet de conserver une identité visuelle cohérente.
+Inter doit rester la typographie dominante de l'identité.
 
 ---
 
 ## JetBrains Mono — Typographie technique
 
-**JetBrains Mono** est utilisée pour les contenus techniques nécessitant une police monospace.
+**JetBrains Mono** constitue la typographie technique de FSDev.
 
-Elle est notamment destinée :
+Elle est utilisée pour :
 
-- au code source ;
-- aux commandes ;
-- aux chemins de fichiers ;
-- aux journaux techniques ;
-- aux exemples de configuration ;
-- aux données techniques nécessitant un alignement monospace.
+- le code source ;
+- les commandes ;
+- les chemins de fichiers ;
+- les journaux techniques ;
+- les exemples de configuration ;
+- les données nécessitant un affichage monospace.
 
 ---
 
-## Principes d'utilisation
+# 9. Principes typographiques
 
-L'identité FSDev privilégie :
+La typographie FSDev doit privilégier :
 
 - la lisibilité ;
 - la sobriété ;
 - une hiérarchie visuelle claire ;
 - la cohérence entre les différents projets ;
-- un usage limité et maîtrisé des variantes typographiques.
+- un nombre limité de variantes typographiques.
 
-**Inter** doit rester la typographie dominante.
+**Inter** est utilisée pour la communication générale.
 
 **JetBrains Mono** est réservée aux contenus techniques.
 
 ---
 
-# 6. Variantes du logo
+# 10. Zone de protection
 
-Le kit graphique devra progressivement contenir :
+Une zone libre doit toujours être conservée autour du logo.
 
-```text
-assets/logo/
-├── logo-fs-bleu.svg
-├── logo-dark.svg
-├── logo-light.svg
-├── logo-monochrome.svg
-├── logo-horizontal.svg
-├── icon.svg
-└── favicon.svg
-```
+Aucun texte, bord, pictogramme ou autre élément graphique ne doit être placé directement contre le symbole.
+
+La zone de protection recommandée correspond au minimum à environ **10 % de la largeur du logo** sur chacun de ses côtés.
+
+Cette règle peut être adaptée lorsque le logo est utilisé comme favicon ou comme petite icône.
 
 ---
 
-# 7. Zone de protection
+# 11. Taille minimale
 
-Une zone libre doit toujours entourer le logo.
+Le logo doit toujours rester suffisamment grand pour conserver sa lisibilité.
 
-Aucun texte, bord, pictogramme ou autre élément graphique ne doit être placé immédiatement contre le symbole.
+Pour les usages numériques :
 
-La zone de protection définitive sera déterminée lors de la finalisation du fichier vectoriel de référence.
+- symbole seul : **24 px minimum** ;
+- logo principal : **32 px minimum recommandé**.
 
----
-
-# 8. Utilisations à éviter
-
-Le logo ne doit pas être :
-
-* déformé ;
-* étiré ;
-* incliné ;
-* recoloré arbitrairement ;
-* utilisé avec des effets graphiques non prévus ;
-* placé sur un fond réduisant fortement sa lisibilité ;
-* modifié pour les besoins particuliers d'un projet.
-
-Les projets FSDev peuvent disposer de leur propre identité, mais le logo principal FSDev doit rester cohérent.
+Pour les très petites tailles, le fichier `favicon.svg` doit être privilégié.
 
 ---
 
-# 9. Cohérence de l'écosystème
+# 12. Utilisations à éviter
 
-L'identité FSDev constitue la base commune de l'écosystème.
+Le logo FSDev ne doit pas être :
 
-Elle pourra être utilisée sur :
+- déformé ;
+- étiré ;
+- compressé ;
+- incliné ;
+- recoloré arbitrairement ;
+- entouré d'effets non prévus ;
+- placé sur un fond compromettant sa lisibilité ;
+- modifié pour répondre aux besoins particuliers d'un projet.
 
-* GitHub ;
-* la documentation ;
-* les sites web ;
-* les applications ;
-* CyberLab ;
-* FSBackup ;
-* Radio Lotus ;
-* EMS ;
-* Devis Express Artisan ;
-* FSDev Engineering Standards ;
-* les futurs projets de l'écosystème.
-
-Chaque projet peut posséder sa propre identité tout en conservant une filiation visuelle avec FSDev.
+Les proportions originales doivent toujours être conservées.
 
 ---
 
-# 10. Évolution
+# 13. Identité des projets
 
-Cette charte est conçue pour évoluer progressivement.
+Les projets de l'écosystème peuvent disposer de leur propre identité visuelle.
 
-Les futures versions pourront notamment définir :
+Ils doivent néanmoins conserver une cohérence générale avec les principes de FSDev.
 
-* la typographie officielle ;
-* les variantes définitives du logo ;
-* les règles précises d'espacement ;
-* le favicon ;
-* les icônes ;
-* le Design System FSDev ;
-* les composants graphiques communs.
+L'identité FSDev peut notamment accompagner :
 
-Les évolutions doivent préserver la cohérence et la reconnaissance de l'identité existante.
+- CyberLab ;
+- FSBackup ;
+- Radio Lotus ;
+- EMS ;
+- Devis Express Artisan ;
+- FSDev Engineering Standards ;
+- les futurs projets de l'écosystème.
+
+L'objectif n'est pas d'imposer une apparence identique à tous les produits, mais de maintenir une filiation reconnaissable avec l'écosystème FSDev.
 
 ---
+
+# 14. Supports
+
+L'identité FSDev est conçue pour fonctionner sur différents supports :
+
+- GitHub ;
+- documentation technique ;
+- sites web ;
+- applications web ;
+- applications mobiles ;
+- interfaces logicielles ;
+- documents ;
+- présentations ;
+- supports de communication.
+
+La version du logo utilisée doit toujours être choisie en fonction du contraste et du support.
+
+---
+
+# 15. Évolution de l'identité
+
+Cette charte constitue la **version 1.0 de l'identité visuelle FSDev**.
+
+Elle pourra évoluer avec l'écosystème.
+
+Les futures versions pourront notamment intégrer :
+
+- un logo horizontal ;
+- des modèles de documents ;
+- une bibliothèque d'icônes ;
+- des composants graphiques communs ;
+- un Design System ;
+- un kit média complet.
+
+Toute évolution doit préserver la reconnaissance et la cohérence de l'identité existante.
+
+---
+
+# Signature
 
 > **Engineering Better Software**
 

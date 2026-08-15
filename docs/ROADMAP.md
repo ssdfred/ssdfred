@@ -33,13 +33,13 @@ Cette feuille de route définit les étapes permettant de développer l'identit�
 
 ### À finaliser
 
-- [ ] Logo vectoriel officiel (SVG)
-- [ ] Variantes du logo
-- [ ] Icône officielle
+- [x] Logo vectoriel officiel (SVG)
+- [x] Variantes du logo
+- [x] Icône officielle
 - [x] Palette de couleurs
 - [x] Typographie
-- [ ] Favicon
-- [ ] Charte graphique (Brand Guide)
+- [x] Favicon
+- [x] Charte graphique (Brand Guide)
 
 ---
 
