@@ -48,11 +48,11 @@ Cette feuille de route définit les étapes permettant de développer l'identit�
 - [x] BRAND_IDENTITY.md
 - [x] MANIFESTO.md
 - [x] ROADMAP.md
+- [x] ENGINEERING_PRINCIPLES.md
 
 ### À rédiger
 
 - [ ] BRAND_GUIDE.md
-- [ ] ENGINEERING_PRINCIPLES.md
 - [ ] VOICE_AND_TONE.md
 - [ ] FOUNDER.md
 
