@@ -64,6 +64,7 @@ Il rassemble notamment :
 - les bonnes pratiques d'ingénierie logicielle.
 
 Ce référentiel est privé et réservé aux projets de l'écosystème FSDev.
+
 ---
 
 # Notre philosophie
