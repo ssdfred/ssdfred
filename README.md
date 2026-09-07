@@ -43,15 +43,15 @@ FSDev développe des solutions dans plusieurs domaines de l'ingénierie logiciel
 | 📻 Radio Lotus | Plateforme de diffusion radio | 🚧 En développement | 🔒 Privé |
 | ⚡ EMS | Gestion énergétique & domotique | 🚧 En développement | 🔒 Privé |
 | 📱 Devis Express Artisan | Application mobile pour les artisans | 🚧 En développement | 🔒 Privé |
-| 📚 **[FSDev Engineering Standards](https://github.com/ssdfred/FSDev-Engineering-Standards)** | Référentiel d'ingénierie logicielle | 🌍 Public | 🌍 Public |
+| 📚 **FSDev Engineering Standards** | Référentiel d'ingénierie logicielle | 🚧 En développement | 🔒 Privé |
 
 ---
 
-# Référentiel public
+# Référentiel interne
 
 ## 📚 FSDev Engineering Standards
 
-Le référentiel utilisé par l'ensemble des projets de l'écosystème.
+Le référentiel interne utilisé par l'ensemble des projets de l'écosystème.
 
 Il rassemble notamment :
 
@@ -63,7 +63,7 @@ Il rassemble notamment :
 - les checklists ;
 - les bonnes pratiques d'ingénierie logicielle.
 
-➡️ **[Consulter FSDev Engineering Standards](https://github.com/ssdfred/FSDev-Engineering-Standards)**
+Ce référentiel est privé et réservé aux projets de l'écosystème FSDev.
 ---
 
 # Notre philosophie
